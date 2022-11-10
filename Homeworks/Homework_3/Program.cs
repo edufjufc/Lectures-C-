@@ -1,4 +1,5 @@
-﻿
+﻿/*
+
 // 1 задание. Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
 
 bool palin(int n)
@@ -12,6 +13,8 @@ int num=Convert.ToInt32(Console.ReadLine());
 bool result=palin(num);
 if(result==true) Console.WriteLine($"Number {num} is palindrome");
 else Console.WriteLine($"Number {num} is't palindrome");
+
+*/
 
 /*
 
